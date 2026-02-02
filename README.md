@@ -17,7 +17,7 @@ A complete sound theme for KDE Plasma based on macOS Big Sur sounds, fully compa
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BigSurSounds-KDE.git
+git clone https://github.com/olafix52/bigsur-sounds-for-KDE
 cd BigSurSounds-KDE
 
 # Convert sounds (requires ffmpeg)
