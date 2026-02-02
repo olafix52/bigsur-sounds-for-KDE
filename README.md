@@ -20,9 +20,6 @@ A complete sound theme for KDE Plasma based on macOS Big Sur sounds, fully compa
 git clone https://github.com/olafix52/bigsur-sounds-for-KDE
 cd bigsur-sounds-for-KDE
 
-# Convert sounds (requires ffmpeg)
-./convert.sh
-
 # Install to your user directory
 ./install.sh
 ```
@@ -31,15 +28,7 @@ Then go to **System Settings** → **Sounds** and select **"BigSur"** as your so
 
 ## 🔧 Requirements
 
-- **ffmpeg** - for audio conversion
 - **KDE Plasma** 5.x or 6.x (or any freedesktop.org compatible desktop)
-
-```bash
-# Install ffmpeg
-sudo apt install ffmpeg      # Debian/Ubuntu
-sudo dnf install ffmpeg      # Fedora
-sudo pacman -S ffmpeg        # Arch Linux
-```
 
 ## 📂 Included Sounds
 
