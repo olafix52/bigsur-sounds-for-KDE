@@ -1,0 +1,9 @@
+[Sound Theme]
+Name=BigSur
+Comment=Sound theme based on macOS Big Sur sounds - bringing Apple's elegant audio experience to KDE Plasma
+Comment[pl]=Motyw dźwiękowy oparty na dźwiękach macOS Big Sur
+Inherits=freedesktop
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
